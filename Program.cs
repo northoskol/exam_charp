@@ -12,6 +12,15 @@ class Program
         Console.Write("Введите элементы массива (через пробел): ");
         string input = Console.ReadLine();
         string[] inputArray = input.Split(' ');
+        // Определяем количество строк в массиве, которые имеют длину <= 3 символам
+        int count = 0;
+        foreach (string str in inputArray)
+        {
+            if (str.Length <= 3)
+            {
+                count++;
+            }
+        }
         
     }
 }
