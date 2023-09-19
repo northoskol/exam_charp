@@ -32,5 +32,6 @@ class Program
                 index++;
             }
         }
+        Console.WriteLine("Исходный массив [" + string.Join(", ", inputArray) + "]" + " -> " + "Новый массив [" + string.Join(", ", resultArray) + "]");
     }
 }
