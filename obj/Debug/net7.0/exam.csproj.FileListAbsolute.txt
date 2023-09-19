@@ -1,0 +1,15 @@
+F:\GB\GITed\exam\bin\Debug\net7.0\exam.exe
+F:\GB\GITed\exam\bin\Debug\net7.0\exam.deps.json
+F:\GB\GITed\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+F:\GB\GITed\exam\bin\Debug\net7.0\exam.dll
+F:\GB\GITed\exam\bin\Debug\net7.0\exam.pdb
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.csproj.AssemblyReference.cache
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.dll
+F:\GB\GITed\exam\obj\Debug\net7.0\refint\exam.dll
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.pdb
+F:\GB\GITed\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+F:\GB\GITed\exam\obj\Debug\net7.0\ref\exam.dll
