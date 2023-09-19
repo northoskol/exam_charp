@@ -21,6 +21,16 @@ class Program
                 count++;
             }
         }
-        
+        // Создаем новый массив для строк длиной <= 3 символам
+        string[] resultArray = new string[count];
+        int index = 0;
+        foreach (string str in inputArray)
+        {
+            if (str.Length <= 3)
+            {
+                resultArray[index] = str;
+                index++;
+            }
+        }
     }
 }
